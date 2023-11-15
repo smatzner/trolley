@@ -1,0 +1,6 @@
+@Trolley.Domain_HostAddress = http://localhost:5274
+
+GET {{Trolley.Domain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
